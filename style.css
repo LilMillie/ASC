@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(182, 221, 255);
+    font-family: 'Fuzzy Bubbles', cursive;    ;
+}
+
+#result {
+    background-color: #abd8ff;
+}
+
+#note {
+    background-color: #85c0f0;
+}
+
+#start {
+    background-color: #9cb2c5;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(210, 121, 121);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(126, 48, 48);
+}
+
+.header_div {
+    background-color: #d1e9ff;
+    color: #ce2700;
+}
+
+.header_div p{
+    font-family: 'Caveat', cursive;
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Caveat', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+#animal_link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
